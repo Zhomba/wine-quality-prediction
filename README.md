@@ -39,3 +39,6 @@ Future work could involve exploring more advanced models, fine-tuning the hyperp
 
 ## License
 This project is licensed under the The Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## Citation
+Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). Wine Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
